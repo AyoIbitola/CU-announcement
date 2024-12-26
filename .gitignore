@@ -1,0 +1,15 @@
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+
+# Environment variables (secrets)
+.env
+
+# Pipenv-specific files
+Pipfile.lock
